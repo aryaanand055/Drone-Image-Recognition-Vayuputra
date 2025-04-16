@@ -11,7 +11,7 @@ A deep learning model using ResNet-50 to classify satellite imagery from the Eur
 ## Dataset
 - EuroSAT RGB: https://github.com/phelber/eurosat
 
-## Confustion Matrix
+## Confusion Matrix
 ![screenshot](evaluation/download.png)
 
 ## Demo
