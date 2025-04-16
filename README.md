@@ -1,6 +1,8 @@
 # EuroSAT Land Cover Classification
 
 A deep learning model using ResNet-50 to classify satellite imagery from the EuroSAT dataset into 10 terrain categories.
+ -  'AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway', 'Industrial',
+    'Pasture', 'PermanentCrop', 'Residential', 'River', 'SeaLake'
 
 ## Contents
 - Trained Model
@@ -22,4 +24,5 @@ A deep learning model using ResNet-50 to classify satellite imagery from the Eur
 ## Future Work
 - Model pruning for edge devices
 - Integration with drone image feeds
-- Streamlit app or mobile demo
+- Mobile demo
+- Training on further dataset to enhance the model
